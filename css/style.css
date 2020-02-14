@@ -1,0 +1,484 @@
+body{
+    
+    background-color: #9ad6cd;
+    
+    
+}
+
+
+    
+    
+    
+
+    
+    #container2{
+    
+    display:none;
+}
+
+
+    
+    
+    #copyright{
+    
+    padding-top:8px;float:right;
+    text-align: end;
+    display:block;
+        
+}
+
+
+
+
+#content1{
+
+width: 30%;
+    padding-bottom: 20px;
+    font-family: cursive;
+    margin: 5px;
+    float: left;
+    margin-top: 50px;
+    border-style: solid;
+    padding-right:0;
+    padding-top:0;
+    padding-left: 30px;
+   background-color: dimgrey;
+        
+    
+}
+#chicken{
+    
+    text-align: center;
+   border-style: solid;
+    padding:10px;
+    margin-left: 230px;
+    margin-right: 0;
+   border-right-style:none;     
+border-top-style:none;
+    background-color: coral;
+    
+    
+   
+}
+
+
+.para1{
+    
+    padding-right: 40px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    font-size: 15px;
+    
+}
+h1{
+    text-align: center;
+    
+    font-family: 'Odibee Sans', cursive;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 30px;
+    color: #342e61;
+}
+
+#content2{
+
+width: 30%;
+    padding: 10px;
+    font-family: cursive;
+    margin: 12px;
+    float: left;
+    margin-top: 50px;
+    border-style: solid;
+    padding-right: 0;
+    padding-top:0;
+   padding-bottom: 30px;
+            background-color: dimgrey;
+        
+
+        
+    
+}
+#beef{
+    
+    text-align: center;
+   border-style: solid;
+    padding:10px;
+    margin-left: 230px;
+    margin-right: 0;
+   border-right-style:none;     
+border-top-style:none;background-color: red;
+}
+#para2{
+    
+    padding-right: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+#content3{
+
+width: 30%;
+    padding-bottom: 30px;
+    font-family: cursive;
+    margin: 5px;
+    float: left;
+    margin-top: 50px;
+    border-style: solid;
+    padding-right: 0;
+    padding-top:0;
+   padding-left: 50px;
+         background-color: dimgrey;
+        
+    
+}
+#sushi{
+    
+    text-align: center;
+   border-style: solid;
+    padding:10px;
+    margin-left: 230px;
+    margin-right: 0;
+   border-right-style:none;     
+border-top-style:none; background-color: coral;
+}
+#para3{
+    
+    padding-right: 30px;
+    padding-left: 0px;
+    margin-left: 0;
+   
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+    
+   @media only screen and (max-width:1150px)
+   {
+       body{
+           
+           margin: 0;
+       }
+       
+       
+       
+       #container{
+           
+           
+           display :none;
+       }
+       
+       
+       #container2{
+           
+           
+           display: block;
+           padding: 10px;
+           margin:0;
+           
+       }
+      
+       #cont1{
+        margin-top: 10px;
+             padding:10px;
+             padding-left:0px ;
+             padding-top:0px;
+             border-style: solid;
+             background-color: grey;
+         }
+         
+         #chick{
+              border-style: solid;
+             padding-left:10px;
+             margin-left: 0;
+             padding-left:0;
+             width:40%;
+             text-align: center;
+             background-color: coral;
+             border-left-style: hidden;
+             
+         }
+         
+         
+         .p1{
+      padding-left: 10px;
+      padding-right: 40px;
+      padding-bottom: 10px;
+      margin-bottom: 0;
+      font-size: 15px;
+         }
+     
+       
+       
+ #cont2{
+      margin-top: 10px;
+           padding:10px;
+           padding-left:0px ;
+           padding-top:0px;
+           border-style: solid;
+           background-color: grey;
+       }
+       
+       #be{
+            border-style: solid;
+           padding-left:10px;
+           margin-left: 0;
+           padding-left:0;
+           width:40%;
+           text-align: center;
+           background-color: coral;
+           border-left-style: hidden;
+           
+       }
+       
+       
+       #p2{
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    font-size: 15px;
+       }
+           
+ #cont3{
+      margin-top: 10px;
+           padding:10px;
+           padding-left:0px ;
+           padding-top:0px;
+           border-style: solid;
+           background-color: grey;
+       }
+        #su{
+            border-style: solid;
+           padding-left:10px;
+           margin-left: 0;
+           padding-left:0;
+           width:40%;
+           text-align: center;
+           background-color: coral;
+           border-left-style: hidden;
+           
+       }
+       
+       
+       #p3{
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    font-size: 15px;
+       }
+       #copy{
+           float: right;
+           text-align: end;
+       }
+       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1024px){
+
+    #container{
+
+    width:100%;
+    
+    padding: 10px;
+        
+    
+    }
+    
+    
+    
+
+#content1{
+
+width: 40%;
+    padding-bottom: 20px;
+    font-family: cursive;
+    margin: 5px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 42px;
+    border-style: solid;
+    padding-right:0;
+    padding-top:0;
+    padding-left: 30px;
+   background-color: dimgrey;
+        
+    
+}
+
+
+
+
+#content2{
+
+width: 40%;
+    padding: 10px;
+    font-family: cursive;
+    margin: 10px;
+    float: left;
+    margin-top: 50px;
+    border-style: solid;
+    padding-right: 0;
+    padding-left: 20px;
+    padding-top:0;
+    margin-left: 35px;
+   padding-bottom: 30px;
+            background-color: dimgrey;
+    }
+    
+    
+    #content3{
+
+width: 90%;
+    padding-bottom: 30px;
+    font-family: cursive;
+    margin: 5px;
+        margin-left: 30px;
+    text-align: center;
+    margin-top: 50px;
+        margin-right: 60px;
+    border-style: solid;
+    padding-right: 0;
+    padding-top:0;
+   padding-left: 10px;
+         background-color: dimgrey;
+
+
+    
+    }
+    
+    
+    
+    
+    
+    #sushi{
+    
+    text-align: center;
+   border-style: solid;
+    padding:30px;
+    margin-left: 150px;
+    margin-left: 220px;
+    margin-right: 0px;
+   border-right-style:none; 
+        font-size: 20px;
+border-top-style:none; background-color: coral;
+}
+#para3{
+    
+    padding-right: 30px;
+    padding-left: 0px;
+    margin-left: 0;
+   margin-right: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+    
+    
+    
+    
+    
+    
+}
+    
+    
+    
+
+@media (min-width:1151px) and (max-width:1516px)
+
+
+
+
+{
+    
+    
+    #content1{
+
+    
+    width:30%;
+        margin-left:10px;
+        margin-right: 5px;
+        float:left;
+        
+
+    
+    
+    }
+    
+    #content2{
+        
+        width:30%;
+        margin-right:10px;
+        margin-left:7px;
+        float:left;
+        
+    }
+    
+    #content3{
+        
+        width:30%;
+    }
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
